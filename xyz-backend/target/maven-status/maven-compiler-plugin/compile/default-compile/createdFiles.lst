@@ -1,0 +1,5 @@
+com/xyz/XyzBackendApplication.class
+com/xyz/controller/ProductController.class
+com/xyz/model/Product.class
+com/xyz/service/ProductService.class
+com/xyz/repository/ProductRepository.class
