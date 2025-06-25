@@ -5,6 +5,10 @@ This project was created as part of a Fullstack Developer take-home test for DSG
 It allows users to **view, add, edit, and delete** used vehicle (product) data.  
 The backend is built with **Spring Boot**, and the frontend is built using **React.js** with **Tailwind CSS** for styling.
 
+## 💡 Video demo
+
+[https://www.loom.com/share/9d902d8a79ac4817893253efc07740b3?sid=a9298d75-2a80-4dc5-a4e2-c22a290961a0] 
+
 ## ✨ Features
 
 - View list of used product
